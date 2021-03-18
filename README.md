@@ -2,6 +2,7 @@
 This repository will contain Flutter code samples.
 
 - | [Jitsi Meet](https://github.com/eishon/Flutter-Samples/tree/main/jitsi_meet_test) |
+|---|---|
 
 - [Push Notification](https://github.com/eishon/Flutter-Samples/tree/main/push_notification_test)
 
@@ -11,6 +12,10 @@ For ReadMe:
 ## Header2
 ### Header3
 #### Header4
+
+[<img src="images/google-play-badge.png" height="50">](https://play.google.com/)
+
+<img src="images/appstore-badge.png" height="50">
 
 [Google link](https://www.google.com)
 
