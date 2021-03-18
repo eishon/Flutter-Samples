@@ -13,9 +13,9 @@ For ReadMe:
 ### Header3
 #### Header4
 
-[<img src="images/google-play-badge.png" height="50">](https://play.google.com/)
+[<img src="images/jitsi_meet/google-play-badge.png" height="50">](https://play.google.com/)
 
-<img src="images/appstore-badge.png" height="50">
+<img src="images/push_notification/appstore-badge.png" height="50">
 
 [Google link](https://www.google.com)
 
