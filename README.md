@@ -1,7 +1,7 @@
 # Flutter-Samples
 This repository will contain Flutter code samples.
 
-- |[Jitsi Meet](https://github.com/eishon/Flutter-Samples/tree/main/jitsi_meet_test)|
+- | [Jitsi Meet](https://github.com/eishon/Flutter-Samples/tree/main/jitsi_meet_test) |
 
 - [Push Notification](https://github.com/eishon/Flutter-Samples/tree/main/push_notification_test)
 
