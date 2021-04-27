@@ -3,7 +3,7 @@
 This Project is for testing the speech to text library in flutter. Also used to execute command using the foolowing [video refference](https://www.youtube.com/watch?v=jwlgHLHFIjc).
 
 # Demo
-<img src="assets/speech_to_text_demo.gif" width="340" height="680" />
+<img src="assets/speech_to_text_demo.gif" width="360" height="680" />
 
 ## Used Packages
 - [Speech to Text](https://pub.dev/packages/speech_to_text)
