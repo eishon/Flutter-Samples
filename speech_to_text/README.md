@@ -1,4 +1,4 @@
-# Sppech to Text
+# Speech to Text
 
 This Project is for testing the speech to text library in flutter. Also used to execute command using the foolowing [video refference](https://www.youtube.com/watch?v=jwlgHLHFIjc).
 
